@@ -1,0 +1,38 @@
+{
+    "name": "janz",
+    "version": "0.1.0",
+    "private": true,
+    "homepage": ".",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@next/font": "^13.1.1",
+        "@reduxjs/toolkit": "^1.9.3",
+        "axios": "^1.2.5",
+        "bootstrap": "^5.2.3",
+        "country-state-city": "^3.1.2",
+        "crypto-js": "^4.1.1",
+        "dayjs": "^1.11.7",
+        "eslint": "8.31.0",
+        "eslint-config-next": "13.1.1",
+        "i": "^0.3.7",
+        "next": "13.1.1",
+        "npm": "^9.4.2",
+        "react": "^15.0.0",
+        "react-bootstrap": "^2.7.0",
+        "react-dom": "18.2.0",
+        "react-redux": "^8.0.5",
+        "react-signature-canvas": "^1.0.6",
+        "react-signature-pad": "^0.0.6",
+        "react-slick": "^0.29.0",
+        "redux": "^4.2.1",
+        "sharp": "^0.31.3",
+        "signature_pad": "^2.3.2",
+        "slick-carousel": "^1.8.1",
+        "usa-states": "^0.0.6"
+    }
+}
